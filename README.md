@@ -1,0 +1,1 @@
+Runs 24/7 on Render Free tier using a web server.
